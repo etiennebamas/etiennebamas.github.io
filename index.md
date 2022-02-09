@@ -1,6 +1,6 @@
 # Etienne Bamas
 
-I'm a fourth-year computer science PhD student at EPFL in the Theory Group. My advisor is Prof. Ola Svensson.
+Hi! I am a fourth-year computer science PhD student at EPFL in the [Theory Group](https://theory.epfl.ch/), where I am fortunate to be advised by Ola Svensson. I am broadly interested in theoretical computer science such as approximation algorithms, online algorithms, or any related problems.
 
 Email: firstname.lastname at epfl.ch
 
