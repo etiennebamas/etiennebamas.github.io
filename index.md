@@ -13,14 +13,12 @@ Etienne Bamas, Marina Drygala, Ola Svensson.
 To appear in the 23rd Conference on Integer Programming and Combinatorial Optimization, IPCO 2022.
 
 ### 2. An Improved Analysis of Greedy for Online Steiner Forest
-Etienne Bamas, Marina Drygala, Andreas Maggiori.
-
+Etienne Bamas, Marina Drygala, Andreas Maggiori.\\
 33rd ACM-SIAM Symposium on Discrete Algorithms, SODA 2022.
 * [arxiv version](https://arxiv.org/pdf/2111.10086.pdf)
 
 ### 3. The Submodular Santa Claus Problem in the Restricted Assignment Case
-Etienne Bamas, Paritosh Garg, Lars Rohwedder.
-
+Etienne Bamas, Paritosh Garg, Lars Rohwedder.\\
 48th International Colloquium on Automata, Languages, and Programming, ICALP 2021.
 * [arxiv version](https://arxiv.org/pdf/2011.06939.pdf)
 
