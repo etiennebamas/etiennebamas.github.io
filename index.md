@@ -1,6 +1,6 @@
 # Etienne Bamas
 
-Hi! I am a fourth-year computer science PhD student at EPFL in the [Theory Group](https://theory.epfl.ch/), where I am fortunate to be advised by Ola Svensson. I am broadly interested in theoretical computer science such as approximation algorithms, online algorithms, or any related problems.
+Hi! I am a fourth-year computer science PhD student at EPFL in the [Theory Group](https://theory.epfl.ch/), where I am fortunate to be advised by [Ola Svensson](https://theory.epfl.ch/osven/). I am broadly interested in theoretical computer science with a focus on approximation algorithms and online algorithms. Before joining EPFL, I completed my master in France at [Ecole polytechnique](https://www.polytechnique.edu/en) and I was advised by [Louis Esperet](https://oc.g-scop.grenoble-inp.fr/esperet/) for my master thesis.
 
 Email: firstname.lastname at epfl.ch
 
