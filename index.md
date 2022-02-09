@@ -14,8 +14,8 @@ To appear in IPCO 2022.
 
 ### 2. An Improved Analysis of Greedy for Online Steiner Forest
 Etienne Bamas, Marina Drygala, Andreas Maggiori.  
-* [conference version:](https://epubs.siam.org/doi/abs/10.1137/1.9781611977073.125) SODA 2022.
-* [arxiv version](https://arxiv.org/pdf/2111.10086.pdf)
+* [Conference version in SODA 2022.](https://epubs.siam.org/doi/abs/10.1137/1.9781611977073.125)
+* [arXiv version](https://arxiv.org/pdf/2111.10086.pdf)
 
 ### 3. The Submodular Santa Claus Problem in the Restricted Assignment Case
 Etienne Bamas, Paritosh Garg, Lars Rohwedder. 
