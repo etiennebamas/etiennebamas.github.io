@@ -9,6 +9,7 @@ Email: firstname.lastname at epfl.ch
 
 ### 1. A Simple LP-Based Approximation Algorithm for the Matching Augmentation Problem
 Etienne Bamas, Marina Drygala, Ola Svensson.
+
 To appear in the 23rd Conference on Integer Programming and Combinatorial Optimization, IPCO 2022.
 
 ### 2. An Improved Analysis of Greedy for Online Steiner Forest
