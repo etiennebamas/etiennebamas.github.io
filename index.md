@@ -1,6 +1,6 @@
 # Etienne Bamas
 
-I'm a fourth-year computer science PhD student at EPFL in the Theory Lab. My advisor is Prof. Ola Svensson.
+I'm a fourth-year computer science PhD student at EPFL in the Theory Group. My advisor is Prof. Ola Svensson.
 
 Email: firstname.lastname at epfl.ch
 
@@ -32,12 +32,12 @@ Etienne Bamas, Andreas Maggiori, Lars Rohwedder, Ola Svensson.
 * [arxiv version](https://arxiv.org/pdf/2010.11629.pdf)
 
 ### 6. Local Approximation of the Maximum Cut in Regular Graphs
-Etienne Bamas, Louis Esperet
+Etienne Bamas, Louis Esperet.
 * [Conference version in WG 2019](https://link.springer.com/chapter/10.1007/978-3-030-30786-8_6)
 * [Journal version in Theoretical Computer Science](https://www.sciencedirect.com/science/article/pii/S0304397520301596)
 * [arxiv version](https://arxiv.org/pdf/1902.04899.pdf)
 
 ### 7. Local Approximation of the Maximum Cut in Regular Graphs
-Etienne Bamas, Louis Esperet
+Etienne Bamas, Louis Esperet.
 * [Conference version in STACS 2019](https://drops.dagstuhl.de/opus/volltexte/2019/10249/)
 * [arxiv version](https://arxiv.org/pdf/1809.08140.pdf)
