@@ -8,12 +8,13 @@ Email: firstname.lastname at epfl.ch
 ## Publications
 
 ### 1. A Simple LP-Based Approximation Algorithm for the Matching Augmentation Problem
-Etienne Bamas, Marina Drygala, Ola Svensson.\n
-To appear in the 23rd Conference on Integer Programming and Combinatorial Optimization, IPCO 2022.
+Etienne Bamas, Marina Drygala, Ola Svensson.
+
+To appear in IPCO 2022.
 
 ### 2. An Improved Analysis of Greedy for Online Steiner Forest
 Etienne Bamas, Marina Drygala, Andreas Maggiori.  
-33rd ACM-SIAM Symposium on Discrete Algorithms, SODA 2022.
+* [conference version:](https://epubs.siam.org/doi/abs/10.1137/1.9781611977073.125) SODA 2022.
 * [arxiv version](https://arxiv.org/pdf/2111.10086.pdf)
 
 ### 3. The Submodular Santa Claus Problem in the Restricted Assignment Case
