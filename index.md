@@ -18,8 +18,7 @@ Etienne Bamas, Marina Drygala, Andreas Maggiori.
 * [arXiv version](https://arxiv.org/pdf/2111.10086.pdf)
 
 ### 3. The Submodular Santa Claus Problem in the Restricted Assignment Case
-Etienne Bamas, Paritosh Garg, Lars Rohwedder. 
-48th International Colloquium on Automata, Languages, and Programming, ICALP 2021.
+Etienne Bamas, Paritosh Garg, Lars Rohwedder.
 * [Conference version in ICALP 2021](https://drops.dagstuhl.de/opus/volltexte/2021/14091/)
 * [arxiv version](https://arxiv.org/pdf/2011.06939.pdf)
 
