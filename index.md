@@ -39,7 +39,7 @@ Etienne Bamas, Louis Esperet.
 * [Journal version in Theoretical Computer Science](https://www.sciencedirect.com/science/article/pii/S0304397520301596)
 * [arxiv version](https://arxiv.org/pdf/1902.04899.pdf)
 
-### Local Approximation of the Maximum Cut in Regular Graphs
+### Distributed coloring of graphs with an optimal number of colors
 Etienne Bamas, Louis Esperet.
 * [Conference version in STACS 2019](https://drops.dagstuhl.de/opus/volltexte/2019/10249/)
 * [arxiv version](https://arxiv.org/pdf/1809.08140.pdf)
