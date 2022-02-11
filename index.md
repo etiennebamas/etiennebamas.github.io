@@ -1,6 +1,6 @@
 # Etienne Bamas
 
-Hi! I am a fourth-year computer science PhD student at EPFL in the [Theory Group](https://theory.epfl.ch/), where I am fortunate to be advised by [Ola Svensson](https://theory.epfl.ch/osven/). I am broadly interested in theoretical computer science with a focus on combinatorial optimization. Before joining EPFL, I completed my bachelor and master in France at [Ecole polytechnique](https://www.polytechnique.edu/en) and the [Parisian Master of Research in Computer Science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php). My master thesis was advised by [Louis Esperet](https://oc.g-scop.grenoble-inp.fr/esperet/).
+Hi! I am a fourth-year computer science PhD student at EPFL in the [Theory Group](https://theory.epfl.ch/), where I am fortunate to be advised by [Ola Svensson](https://theory.epfl.ch/osven/). I am broadly interested in theoretical computer science with a focus on combinatorial optimization. Before joining EPFL, I completed my bachelor and master in France at [Ecole polytechnique](https://www.polytechnique.edu/en) and the [Parisian Master of Research in Computer Science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php). My master thesis was advised by [Louis Esperet](https://oc.g-scop.grenoble-inp.fr/esperet/). For more details, here is my [CV](pdf/Resume.pdf).
 
 If you would like to contact me, please feel free to do so!
 
@@ -17,11 +17,13 @@ Etienne Bamas, Marina Drygala, Ola Svensson.
 Etienne Bamas, Marina Drygala, Andreas Maggiori.  
 * [Conference version in SODA 2022](https://epubs.siam.org/doi/abs/10.1137/1.9781611977073.125)
 * [arXiv version](https://arxiv.org/pdf/2111.10086.pdf)
+* [Slides at SODA 2022](/pdf/SODA22_presentation.pdf)
 
 ### The Submodular Santa Claus Problem in the Restricted Assignment Case
 Etienne Bamas, Paritosh Garg, Lars Rohwedder.
 * [Conference version in ICALP 2021](https://drops.dagstuhl.de/opus/volltexte/2021/14091/)
 * [arxiv version](https://arxiv.org/pdf/2011.06939.pdf)
+* [Slides at ICALP 2021](/pdf/ICALP_21_presentation.pdf)
 
 ### The Primal-Dual method for Learning Augmented Algorithms
 Etienne Bamas, Andreas Maggiori, Ola Svensson.
@@ -32,6 +34,7 @@ Etienne Bamas, Andreas Maggiori, Ola Svensson.
 Etienne Bamas, Andreas Maggiori, Lars Rohwedder, Ola Svensson.
 * [Conference version in NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/af94ed0d6f5acc95f97170e3685f16c0-Abstract.html) (**spotlight presentation**)
 * [arxiv version](https://arxiv.org/pdf/2010.11629.pdf)
+* [Slides at NeurIPS 2020](/pdf/NeurIPS_LAS.pdf)
 
 ### Local Approximation of the Maximum Cut in Regular Graphs
 Etienne Bamas, Louis Esperet.
