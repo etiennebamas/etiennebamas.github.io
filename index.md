@@ -9,6 +9,8 @@ Email: firstname.lastname at epfl.ch
 
 ## Publications
 
+All my publications can also be found on [my scholar profile](https://scholar.google.com/citations?user=Cu8EcIAAAAAJ&).
+
 ### A Simple LP-Based Approximation Algorithm for the Matching Augmentation Problem
 Etienne Bamas, Marina Drygala, Ola Svensson.
 * To appear in IPCO 2022.
