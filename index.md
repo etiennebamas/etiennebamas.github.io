@@ -25,27 +25,27 @@ Etienne Bamas, Marina Drygala, Andreas Maggiori.
 ### The Submodular Santa Claus Problem in the Restricted Assignment Case
 Etienne Bamas, Paritosh Garg, Lars Rohwedder.
 * [Conference version in ICALP 2021](https://drops.dagstuhl.de/opus/volltexte/2021/14091/)
-* [arxiv version](https://arxiv.org/pdf/2011.06939.pdf)
+* [arXiv version](https://arxiv.org/pdf/2011.06939.pdf)
 * [Slides at ICALP 2021](/pdf/ICALP_21_presentation.pdf)
 
 ### The Primal-Dual method for Learning Augmented Algorithms
 Etienne Bamas, Andreas Maggiori, Ola Svensson.
 * [Conference version in NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/e834cb114d33f729dbc9c7fb0c6bb607-Abstract.html) (**oral presentation**)
-* [arxiv version](https://arxiv.org/pdf/2010.11632.pdf)
+* [arXiv version](https://arxiv.org/pdf/2010.11632.pdf)
 
 ### Learning Augmented Energy Minimization via Speed Scaling
 Etienne Bamas, Andreas Maggiori, Lars Rohwedder, Ola Svensson.
 * [Conference version in NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/af94ed0d6f5acc95f97170e3685f16c0-Abstract.html) (**spotlight presentation**)
-* [arxiv version](https://arxiv.org/pdf/2010.11629.pdf)
+* [arXiv version](https://arxiv.org/pdf/2010.11629.pdf)
 * [Slides at NeurIPS 2020](/pdf/NeurIPS_LAS.pdf)
 
 ### Local Approximation of the Maximum Cut in Regular Graphs
 Etienne Bamas, Louis Esperet.
 * [Conference version in WG 2019](https://link.springer.com/chapter/10.1007/978-3-030-30786-8_6)
 * [Journal version in Theoretical Computer Science](https://www.sciencedirect.com/science/article/pii/S0304397520301596)
-* [arxiv version](https://arxiv.org/pdf/1902.04899.pdf)
+* [arXiv version](https://arxiv.org/pdf/1902.04899.pdf)
 
 ### Distributed coloring of graphs with an optimal number of colors
 Etienne Bamas, Louis Esperet.
 * [Conference version in STACS 2019](https://drops.dagstuhl.de/opus/volltexte/2019/10249/)
-* [arxiv version](https://arxiv.org/pdf/1809.08140.pdf)
+* [arXiv version](https://arxiv.org/pdf/1809.08140.pdf)
