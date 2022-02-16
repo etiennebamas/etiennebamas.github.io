@@ -14,6 +14,7 @@ All my publications can also be found on [my scholar profile](https://scholar.go
 ### A Simple LP-Based Approximation Algorithm for the Matching Augmentation Problem
 Etienne Bamas, Marina Drygala, Ola Svensson.
 * To appear in IPCO 2022.
+* [arXiv version](https://arxiv.org/pdf/2202.07283.pdf)
 
 ### An Improved Analysis of Greedy for Online Steiner Forest
 Etienne Bamas, Marina Drygala, Andreas Maggiori.  
