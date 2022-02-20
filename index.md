@@ -1,6 +1,6 @@
-# Etienne Bamas
+# Etienne Bamas' webpage
 
-Hi! I am a fourth-year computer science PhD student at EPFL in the [Theory Group](https://theory.epfl.ch/), where I am fortunate to be advised by [Ola Svensson](https://theory.epfl.ch/osven/). I am broadly interested in theoretical computer science with a focus on combinatorial optimization. Before joining EPFL, I completed my bachelor and master in France at [Ecole polytechnique](https://www.polytechnique.edu/en) and the [Parisian Master of Research in Computer Science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php). My master thesis was advised by [Louis Esperet](https://oc.g-scop.grenoble-inp.fr/esperet/). For more details, here is my [CV](pdf/Simple_CV2.pdf).
+Hello and wecome to my webpage! I am a fourth-year computer science PhD student at EPFL in the [Theory Group](https://theory.epfl.ch/), where I am fortunate to be advised by [Ola Svensson](https://theory.epfl.ch/osven/). I am broadly interested in theoretical computer science with a focus on combinatorial optimization. Before joining EPFL, I completed my bachelor and master in France at [Ecole polytechnique](https://www.polytechnique.edu/en) and the [Parisian Master of Research in Computer Science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php). My master thesis was advised by [Louis Esperet](https://oc.g-scop.grenoble-inp.fr/esperet/). For more details, here is my [CV](pdf/Simple_CV2.pdf).
 
 If you would like to contact me, please feel free to do so!
 
