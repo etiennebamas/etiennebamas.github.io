@@ -32,6 +32,7 @@ Etienne Bamas, Paritosh Garg, Lars Rohwedder.
 Etienne Bamas, Andreas Maggiori, Ola Svensson.
 * [Conference version in NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/e834cb114d33f729dbc9c7fb0c6bb607-Abstract.html) (**oral presentation**)
 * [arXiv version](https://arxiv.org/pdf/2010.11632.pdf)
+* [Andreas' talk at NeurIPS 2020](https://slideslive.com/38938546/the-primaldual-method-for-learning-augmented-algorithms)
 
 ### Learning Augmented Energy Minimization via Speed Scaling
 Etienne Bamas, Andreas Maggiori, Lars Rohwedder, Ola Svensson.
