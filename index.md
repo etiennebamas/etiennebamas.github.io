@@ -44,8 +44,10 @@ Etienne Bamas, Louis Esperet.
 * [Conference version in WG 2019](https://link.springer.com/chapter/10.1007/978-3-030-30786-8_6)
 * [Journal version in Theoretical Computer Science](https://www.sciencedirect.com/science/article/pii/S0304397520301596)
 * [arXiv version](https://arxiv.org/pdf/1902.04899.pdf)
+* [Slides at WG 2019](/pdf/WG2019.pdf)
 
 ### Distributed coloring of graphs with an optimal number of colors
 Etienne Bamas, Louis Esperet.
 * [Conference version in STACS 2019](https://drops.dagstuhl.de/opus/volltexte/2019/10249/)
 * [arXiv version](https://arxiv.org/pdf/1809.08140.pdf)
+* [Slides at STACS 2019](/pdf/stacs2019.pdf)
