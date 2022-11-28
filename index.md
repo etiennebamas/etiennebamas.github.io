@@ -11,9 +11,14 @@ Email: firstname.lastname at epfl.ch
 
 All my publications can also be found on [my scholar profile](https://scholar.google.com/citations?user=Cu8EcIAAAAAJ&).
 
+### Better Trees for Santa Claus
+Etienne Bamas, Lars Rohwedder.
+* Submitted
+* [arXiv version](https://arxiv.org/abs/2211.14259)
+
 ### A Simple LP-Based Approximation Algorithm for the Matching Augmentation Problem
 Etienne Bamas, Marina Drygala, Ola Svensson.
-* To appear in IPCO 2022.
+* [Conference version in IPCO 2022](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_5).
 * [arXiv version](https://arxiv.org/pdf/2202.07283.pdf)
 
 ### An Improved Analysis of Greedy for Online Steiner Forest
