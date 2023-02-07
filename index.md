@@ -13,6 +13,7 @@ All my publications can also be found on [my scholar profile](https://scholar.go
 
 ### Better Trees for Santa Claus
 Etienne Bamas, Lars Rohwedder.
+* To appear in STOC 2023
 * [arXiv version](https://arxiv.org/abs/2211.14259)
 
 ### A Simple LP-Based Approximation Algorithm for the Matching Augmentation Problem
