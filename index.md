@@ -1,24 +1,33 @@
 # Etienne Bamas' webpage
 
-Hello and welcome to my webpage! I am a final-year computer science PhD student at EPFL in the [Theory Group](https://theory.epfl.ch/), where I am fortunate to be advised by [Ola Svensson](https://theory.epfl.ch/osven/). I am broadly interested in Theoretical Computer Science with a focus on Combinatorial Optimization, sometimes in connection with Machine Learning. Before joining EPFL, I completed my bachelor and master in France at [Ecole polytechnique](https://www.polytechnique.edu/en) and the [Parisian Master of Research in Computer Science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php). My master thesis was advised by [Louis Esperet](https://oc.g-scop.grenoble-inp.fr/esperet/). For more details, here is my [CV](pdf/Resume.pdf).
+Hello and welcome to my webpage! I am a post-doctoral fellow at the ETH AI Center, mostly working in the groups of Prof. Rico Zenklusen and Prof. Roger Wattenhofer. I obtained my PhD in 2023 from EPFL, where I was fortunate to be advised by [Ola Svensson](https://theory.epfl.ch/osven/). I am broadly interested in Theoretical Computer Science with a focus on Combinatorial Optimization, sometimes in connection with Machine Learning. Before joining EPFL, I completed my bachelor and master in France at [Ecole polytechnique](https://www.polytechnique.edu/en) and the [Parisian Master of Research in Computer Science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php). My master thesis was advised by [Louis Esperet](https://oc.g-scop.grenoble-inp.fr/esperet/). For more details, here is my [CV](pdf/Resume.pdf).
 
 If you would like to contact me, please feel free to do so!
 
-Email: firstname.lastname at epfl.ch
+Email: firstname dot lastname at epfl dot ch
 
 
 ## Publications
 
 All my publications can also be found on [my scholar profile](https://scholar.google.com/citations?user=Cu8EcIAAAAAJ&).
 
+### An Analysis of $D^\alpha$ seeding for k-means
+Etienne Bamas, Sai Ganesh Nagarajan, Ola Svensson.
+* [arXiv version](https://arxiv.org/abs/2310.13474)
+
+### Santa Claus meets Makespan and Matroids: Algorithms and Reductions
+Etienne Bamas,  Alexander Lindermayr, Nicole Megow, Lars Rohwedder, Jens Schlöter.
+* to appear in SODA 2024
+* [arXiv version](https://arxiv.org/abs/2307.08453)
+
 ### Better Trees for Santa Claus
 Etienne Bamas, Lars Rohwedder.
-* To appear in STOC 2023
+* [Conference version in STOC 2023](https://dl.acm.org/doi/10.1145/3564246.3585174)
 * [arXiv version](https://arxiv.org/abs/2211.14259)
 
 ### A Simple LP-Based Approximation Algorithm for the Matching Augmentation Problem
 Etienne Bamas, Marina Drygala, Ola Svensson.
-* [Conference version in IPCO 2022](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_5).
+* [Conference version in IPCO 2022](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_5)
 * [arXiv version](https://arxiv.org/pdf/2202.07283.pdf)
 
 ### An Improved Analysis of Greedy for Online Steiner Forest
