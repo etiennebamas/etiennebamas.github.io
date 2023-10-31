@@ -4,7 +4,7 @@ Hello and welcome to my webpage! I am a post-doctoral fellow at the ETH AI Cente
 
 If you would like to contact me, please feel free to do so!
 
-Email: firstname dot lastname at epfl dot ch
+Email: firstname dot lastname at inf dot ethz dot ch
 
 
 ## Publications
