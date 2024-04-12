@@ -4,7 +4,7 @@ Hello and welcome to my webpage! I am a post-doctoral fellow at the ETH AI Cente
 
 If you would like to contact me, my email is: firstname dot lastname at inf dot ethz dot ch.
 
-Here is my ![CV][pdf/CV.pdf].
+Here is my [CV](pdf/CV.pdf).
 
 
 ## Publications
