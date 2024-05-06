@@ -13,6 +13,7 @@ All my publications can also be found on [my scholar profile](https://scholar.go
 
 ### An Analysis of $D^\alpha$ seeding for k-means
 Etienne Bamas, Sai Ganesh Nagarajan, Ola Svensson.
+* Accepted for publication at ICML 2024
 * [arXiv version](https://arxiv.org/abs/2310.13474)
 
 ### Santa Claus meets Makespan and Matroids: Algorithms and Reductions
