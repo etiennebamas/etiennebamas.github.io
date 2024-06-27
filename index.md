@@ -11,6 +11,10 @@ Here is my [CV](pdf/CV.pdf).
 
 All my publications can also be found on [my scholar profile](https://scholar.google.com/citations?user=Cu8EcIAAAAAJ&).
 
+### Lift-and-Project Integrality Gaps for Santa Claus
+Etienne Bamas.
+* [arXiv version](https://arxiv.org/abs/2406.18273)
+
 ### An Analysis of $D^\alpha$ seeding for k-means
 Etienne Bamas, Sai Ganesh Nagarajan, Ola Svensson.
 * Accepted for publication at ICML 2024
