@@ -11,6 +11,10 @@ Here is my [CV](pdf/CV.pdf).
 
 All my publications can also be found on [my scholar profile](https://scholar.google.com/citations?user=Cu8EcIAAAAAJ&).
 
+### The Submodular Santa Claus Problem
+Etienne Bamas, Sarah Morell, Lars Rohwedder.
+* [arXiv version](https://arxiv.org/abs/2407.04824)
+
 ### Lift-and-Project Integrality Gaps for Santa Claus
 Etienne Bamas.
 * [arXiv version](https://arxiv.org/abs/2406.18273)
