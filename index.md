@@ -13,15 +13,17 @@ All my publications can also be found on [my scholar profile](https://scholar.go
 
 ### The Submodular Santa Claus Problem
 Etienne Bamas, Sarah Morell, Lars Rohwedder.
+* To appear at SODA 2025
 * [arXiv version](https://arxiv.org/abs/2407.04824)
 
 ### Lift-and-Project Integrality Gaps for Santa Claus
 Etienne Bamas.
+* To appear at SODA 2025
 * [arXiv version](https://arxiv.org/abs/2406.18273)
 
 ### An Analysis of $D^\alpha$ seeding for k-means
 Etienne Bamas, Sai Ganesh Nagarajan, Ola Svensson.
-* Accepted for publication at ICML 2024
+* [Conference version in ICML 2024](https://proceedings.mlr.press/v235/bamas24a.html)
 * [arXiv version](https://arxiv.org/abs/2310.13474)
 
 ### Santa Claus meets Makespan and Matroids: Algorithms and Reductions
@@ -54,13 +56,13 @@ Etienne Bamas, Paritosh Garg, Lars Rohwedder.
 
 ### The Primal-Dual method for Learning Augmented Algorithms
 Etienne Bamas, Andreas Maggiori, Ola Svensson.
-* [Conference version in NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/e834cb114d33f729dbc9c7fb0c6bb607-Abstract.html) (**oral presentation**)
+* [Conference version in NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/e834cb114d33f729dbc9c7fb0c6bb607-Abstract.html) (**oral presentation, top 1%**)
 * [arXiv version](https://arxiv.org/pdf/2010.11632.pdf)
 * [Andreas' talk at NeurIPS 2020](https://slideslive.com/38938546/the-primaldual-method-for-learning-augmented-algorithms)
 
 ### Learning Augmented Energy Minimization via Speed Scaling
 Etienne Bamas, Andreas Maggiori, Lars Rohwedder, Ola Svensson.
-* [Conference version in NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/af94ed0d6f5acc95f97170e3685f16c0-Abstract.html) (**spotlight presentation**)
+* [Conference version in NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/af94ed0d6f5acc95f97170e3685f16c0-Abstract.html) (**spotlight presentation, top 4%**)
 * [arXiv version](https://arxiv.org/pdf/2010.11629.pdf)
 * [Slides at NeurIPS 2020](/pdf/NeurIPS_LAS.pdf)
 
