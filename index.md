@@ -14,12 +14,12 @@ All my publications can also be found on [my scholar profile](https://scholar.go
 
 ### The Submodular Santa Claus Problem
 Etienne Bamas, Sarah Morell, Lars Rohwedder.
-* To appear at SODA 2025
+* Accepted at SODA 2025
 * [arXiv version](https://arxiv.org/abs/2407.04824)
 
 ### Lift-and-Project Integrality Gaps for Santa Claus
 Etienne Bamas.
-* To appear at SODA 2025
+* Accepted at SODA 2025
 * [arXiv version](https://arxiv.org/abs/2406.18273)
 
 ### An Analysis of $D^\alpha$ seeding for k-means
