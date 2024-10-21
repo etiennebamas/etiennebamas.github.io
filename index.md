@@ -29,7 +29,7 @@ Etienne Bamas, Sai Ganesh Nagarajan, Ola Svensson.
 
 ### Santa Claus meets Makespan and Matroids: Algorithms and Reductions
 Etienne Bamas,  Alexander Lindermayr, Nicole Megow, Lars Rohwedder, Jens Schlöter.
-* Invited to the ACM Transactions on Algorithms special issue
+* **Invited to the ACM Transactions on Algorithms special issue**
 * [Conference version in SODA 2024](https://epubs.siam.org/doi/10.1137/1.9781611977912.100)
 * [arXiv version](https://arxiv.org/abs/2307.08453)
 
