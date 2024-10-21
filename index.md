@@ -1,11 +1,12 @@
 # Etienne Bamas' webpage
 
-Hello and welcome to my webpage! I am a post-doctoral fellow at the ETH AI Center, mostly working in the groups of Prof. Rico Zenklusen and Prof. Roger Wattenhofer. I obtained my PhD in 2023 from EPFL, where I was fortunate to be advised by [Ola Svensson](https://theory.epfl.ch/osven/). I am broadly interested in Theoretical Computer Science with a focus on Combinatorial Optimization, sometimes in connection with Machine Learning. Before joining EPFL, I completed my bachelor and master in France at [Ecole polytechnique](https://www.polytechnique.edu/en) and the [Parisian Master of Research in Computer Science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php). My master thesis was advised by [Louis Esperet](https://oc.g-scop.grenoble-inp.fr/esperet/).
+Hello and welcome to my webpage. I am a post-doctoral fellow at the ETH AI Center, mostly working in the groups of Prof. Rico Zenklusen and Prof. Roger Wattenhofer. I obtained my PhD in 2023 from EPFL, where I was fortunate to be advised by [Ola Svensson](https://theory.epfl.ch/osven/). I am broadly interested in Theoretical Computer Science with a focus on Combinatorial Optimization, also in connection with Machine Learning. Before joining EPFL, I completed my bachelor and master in France at [Ecole polytechnique](https://www.polytechnique.edu/en) and the [Parisian Master of Research in Computer Science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php). My master thesis was advised by [Louis Esperet](https://oc.g-scop.grenoble-inp.fr/esperet/).
 
 If you would like to contact me, my email is: firstname dot lastname at inf dot ethz dot ch.
 
-Here is my [CV](pdf/CV.pdf).
+Below you can find the list of my publications. Recently, I advised two student projects whose goal was to solve classic operation research problems using ML techniques (e.g. the stochastic vehicle scheduling problem, see the final [poster](/pdf/PMLR1.pdf) of the students). Also, I regularly advise MSc theses on various topics (e.g. approximation algorithms, online selection problems). 
 
+For my CV, click [here](pdf/CV.pdf).
 
 ## Publications
 
@@ -78,7 +79,3 @@ Etienne Bamas, Louis Esperet.
 * [Conference version in STACS 2019](https://drops.dagstuhl.de/opus/volltexte/2019/10249/)
 * [arXiv version](https://arxiv.org/pdf/1809.08140.pdf)
 * [Slides at STACS 2019](/pdf/stacs2019.pdf)
-
-## Student Projects
-
-I regularly advise MSc theses in the theory on various topics (e.g. approximation algorithms, online selection problems). In Spring 2024, I also advised two student projects whose goal was to solve classic operation research problems using ML techniques (e.g. the stochastic vehicle scheduling problem, see the final [poster](/pdf/PMLR1.pdf) of the students). 
