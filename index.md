@@ -78,3 +78,7 @@ Etienne Bamas, Louis Esperet.
 * [Conference version in STACS 2019](https://drops.dagstuhl.de/opus/volltexte/2019/10249/)
 * [arXiv version](https://arxiv.org/pdf/1809.08140.pdf)
 * [Slides at STACS 2019](/pdf/stacs2019.pdf)
+
+## Student Projects
+
+I regularly advise MSc theses in the theory on various topics (e.g. approximation algorithms, online selection problems). In Spring 2024, I also advised two student projects whose goal was to solve classic operation research problems using ML techniques (e.g. the stochastic vehicle scheduling problem, see the final [poster](/pdf/PMLR1.pdf) of the students). 
