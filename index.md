@@ -4,7 +4,7 @@ Hello and welcome to my webpage. I am a post-doctoral fellow at the ETH AI Cente
 
 Below you can find the list of my publications. Recently, I advised two student projects whose goal was to solve classic operation research problems using ML techniques (e.g. the stochastic vehicle scheduling problem, see the final [poster](/pdf/PMLR1.pdf) of the students). Also, I regularly advise MSc theses on various topics (e.g. approximation algorithms, online selection problems).
 
-For my CV, click [here](pdf/CV.pdf).
+For my CV, click [here](pdf/Simple_CV.pdf).
 
 If you would like to contact me, my email is: firstname dot lastname at inf dot ethz dot ch.
 
