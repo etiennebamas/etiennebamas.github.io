@@ -64,12 +64,12 @@ a:hover {
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
 	color: white;
-	letter-spacing: 7px;
+	letter-spacing: 0px;
 	border-bottom: 1px white solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
 	color:white;
-	letter-spacing: 7px;
+	letter-spacing: 0px;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -121,7 +121,7 @@ strong {
 h1, h2, h3 {
 	color: #0074D9;
 	/* color: #f50000; */
-	letter-spacing: 7px;
+	letter-spacing: 0px;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
