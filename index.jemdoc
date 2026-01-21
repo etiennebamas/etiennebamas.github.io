@@ -15,27 +15,20 @@ Below you can find the list of my publications. I also advised several student p
 == Publications
 All my publications can also be found on [https://scholar.google.com/citations?user=Cu8EcIAAAAAJ my scholar profile].
 
-- E. Bamas. *Lift-and-Project Integrality Gaps for Santa Claus*. 
-\n \[[https://arxiv.org/abs/2406.18273 arXiv]\], /SODA/ 2025.
+- Etienne Bamas, Shi Li, Lars Rohwedder. *Randomized Rounding over Dynamic Programs*. 
+\n \[[https://arxiv.org/abs/2511.03490 arXiv]\], submitted.
 
-=== Randomized Rounding over Dynamic Programs
-Etienne Bamas, Shi Li, Lars Rohwedder.
-- [https://arxiv.org/abs/2511.03490 arXiv version]
+- Etienne Bamas. *Lift-and-Project Integrality Gaps for Santa Claus*. 
+\n \[[https://arxiv.org/abs/2406.18273 arXiv]\], in /SODA/ 2025.
 
-=== Lift-and-Project Integrality Gaps for Santa Claus
-Etienne Bamas.
-- [https://epubs.siam.org/doi/epdf/10.1137/1.9781611978322.18 Conference version in SODA 2025]
-- [https://arxiv.org/abs/2406.18273 arXiv version]
+- Etienne Bamas, Sarah Morell, Lars Rohwedder. *The Submodular Santa Claus Problem*.
+\n \[[https://arxiv.org/abs/2407.04824 arXiv]\], in /SODA/ 2025.
 
-=== The Submodular Santa Claus Problem
-Etienne Bamas, Sarah Morell, Lars Rohwedder.
-- [https://epubs.siam.org/doi/epdf/10.1137/1.9781611978322.19 Conference version in SODA 2025]
-- [https://arxiv.org/abs/2407.04824 arXiv version]
+- Etienne Bamas, Sai Ganesh Nagarajan, Ola Svensson. *An Analysis of $D^\alpha$ seeding for k-means*.
+\n \[[https://arxiv.org/abs/2310.13474 arXiv, https://proceedings.mlr.press/v235/bamas24a.html conference version]\], in /ICML/ 2024.
 
-=== An Analysis of $D^\alpha$ seeding for k-means
-Etienne Bamas, Sai Ganesh Nagarajan, Ola Svensson.
-- [https://proceedings.mlr.press/v235/bamas24a.html Conference version in ICML 2024]
-- [https://arxiv.org/abs/2310.13474 arXiv version]
+- E. Bamas, A. Lindermayr, N. Megow, L. Rohwedder, J. Schloeter. *Santa Claus meets Makespan and Matroids: Algorithms and Reductions*.
+\n \[[https://arxiv.org/abs/2307.08453 arXiv]\], in /SODA/ 2024 (*invited to TALG special issue*).
 
 === Santa Claus meets Makespan and Matroids: Algorithms and Reductions
 Etienne Bamas, Alexander Lindermayr, Nicole Megow, Lars Rohwedder, Jens Schloeter.
