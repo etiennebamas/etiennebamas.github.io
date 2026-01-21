@@ -25,60 +25,31 @@ All my publications can also be found on [https://scholar.google.com/citations?u
 \n \[[https://arxiv.org/abs/2407.04824 arXiv]\], in /SODA/ 2025.
 
 - Etienne Bamas, Sai Ganesh Nagarajan, Ola Svensson. *An Analysis of $D^\alpha$ seeding for k-means*.
-\n \[[https://arxiv.org/abs/2310.13474 arXiv, https://proceedings.mlr.press/v235/bamas24a.html conference version]\], in /ICML/ 2024.
+\n \[[https://arxiv.org/abs/2310.13474 arXiv], [https://proceedings.mlr.press/v235/bamas24a.html conference version]\], in /ICML/ 2024.
 
 - E. Bamas, A. Lindermayr, N. Megow, L. Rohwedder, J. Schloeter. *Santa Claus meets Makespan and Matroids: Algorithms and Reductions*.
 \n \[[https://arxiv.org/abs/2307.08453 arXiv]\], in /SODA/ 2024 (*invited to TALG special issue*).
 
-=== Santa Claus meets Makespan and Matroids: Algorithms and Reductions
-Etienne Bamas, Alexander Lindermayr, Nicole Megow, Lars Rohwedder, Jens Schloeter.
-- **Invited to the ACM Transactions on Algorithms special issue**
-- [https://epubs.siam.org/doi/10.1137/1.9781611977912.100 Conference version in SODA 2024]
-- [https://arxiv.org/abs/2307.08453 arXiv version]
+- Etienne Bamas, Lars Rohwedder. *Better Trees for Santa Claus*.
+\n \[[https://arxiv.org/abs/2211.14259 arXiv]\], in /STOC/ 2023.
 
-=== Better Trees for Santa Claus
-Etienne Bamas, Lars Rohwedder.
-- [https://dl.acm.org/doi/10.1145/3564246.3585174 Conference version in STOC 2023]
-- [https://arxiv.org/abs/2211.14259 arXiv version]
+- Etienne Bamas, Marina Drygala, Ola Svensson. *A Simple LP-Based Approximation Algorithm for the Matching Augmentation Problem*.
+\n \[[https://arxiv.org/pdf/2202.07283.pdf arXiv]\], in /IPCO/ 2022.
 
-=== A Simple LP-Based Approximation Algorithm for the Matching Augmentation Problem
-Etienne Bamas, Marina Drygala, Ola Svensson.
-- [https://link.springer.com/chapter/10.1007/978-3-031-06901-7_5 Conference version in IPCO 2022]
-- [https://arxiv.org/pdf/2202.07283.pdf arXiv version]
+- Etienne Bamas, Marina Drygala, Andreas Maggiori. *An Improved Analysis of Greedy for Online Steiner Forest*.
+\n \[[https://arxiv.org/pdf/2111.10086.pdf arXiv]\], in /SODA/ 2022.
 
-=== An Improved Analysis of Greedy for Online Steiner Forest
-Etienne Bamas, Marina Drygala, Andreas Maggiori.
-- [https://epubs.siam.org/doi/abs/10.1137/1.9781611977073.125 Conference version in SODA 2022]
-- [https://arxiv.org/pdf/2111.10086.pdf arXiv version]
-- [pdf/SODA22_presentation.pdf Slides at SODA 2022]
+- Etienne Bamas, Paritosh Garg, Lars Rohwedder. *The Submodular Santa Claus Problem in the Restricted Assignment Case*.
+\n \[[https://arxiv.org/pdf/2011.06939.pdf arXiv]\], in /ICALP/ 2021.
 
-=== The Submodular Santa Claus Problem in the Restricted Assignment Case
-Etienne Bamas, Paritosh Garg, Lars Rohwedder.
-- [https://drops.dagstuhl.de/opus/volltexte/2021/14091/ Conference version in ICALP 2021]
-- [https://arxiv.org/pdf/2011.06939.pdf arXiv version]
-- [pdf/ICALP_21_presentation.pdf Slides at ICALP 2021]
+- Etienne Bamas, Andreas Maggiori, Ola Svensson. *The Primal-Dual method for Learning Augmented Algorithms*.
+\n \[[https://arxiv.org/pdf/2010.11632.pdf arXiv]\], in /NeurIPS/ 2020 (*oral presentation, top 1% of submissions*).
 
-=== The Primal-Dual method for Learning Augmented Algorithms
-Etienne Bamas, Andreas Maggiori, Ola Svensson.
-- [https://proceedings.neurips.cc/paper/2020/hash/e834cb114d33f729dbc9c7fb0c6bb607-Abstract.html Conference version in NeurIPS 2020 (*oral presentation, top 1% of submissions*)]
-- [https://arxiv.org/pdf/2010.11632.pdf arXiv version]
-- [https://slideslive.com/38938546/the-primaldual-method-for-learning-augmented-algorithms Andreas' talk at NeurIPS 2020]
+- Etienne Bamas, Andreas Maggiori, Lars Rohwedder, Ola Svensson. *Learning Augmented Energy Minimization via Speed Scaling*.
+\n \[[https://arxiv.org/pdf/2010.11629.pdf arXiv]\], in /NeurIPS/ 2020 (*spotlight presentation, top 3% of submissions*).
 
-=== Learning Augmented Energy Minimization via Speed Scaling
-Etienne Bamas, Andreas Maggiori, Lars Rohwedder, Ola Svensson.
-- [https://proceedings.neurips.cc/paper/2020/hash/af94ed0d6f5acc95f97170e3685f16c0-Abstract.html Conference version in NeurIPS 2020 (*spotlight presentation, top 4% of submissions*)]
-- [https://arxiv.org/pdf/2010.11629.pdf arXiv version]
-- [pdf/NeurIPS_LAS.pdf Slides at NeurIPS 2020]
+- Etienne Bamas, Louis Esperet. *Local Approximation of the Maximum Cut in Regular Graphs*.
+\n \[[https://arxiv.org/pdf/1902.04899.pdf arXiv]\], in /WG/ 2019, [https://www.sciencedirect.com/science/article/pii/S0304397520301596 journal version] in Theoretical Computer Science.
 
-=== Local Approximation of the Maximum Cut in Regular Graphs
-Etienne Bamas, Louis Esperet.
-- [https://link.springer.com/chapter/10.1007/978-3-030-30786-8_6 Conference version in WG 2019]
-- [https://www.sciencedirect.com/science/article/pii/S0304397520301596 Journal version in Theoretical Computer Science]
-- [https://arxiv.org/pdf/1902.04899.pdf arXiv version]
-- [pdf/WG2019.pdf Slides at WG 2019]
-
-=== Distributed coloring of graphs with an optimal number of colors
-Etienne Bamas, Louis Esperet.
-- [https://drops.dagstuhl.de/opus/volltexte/2019/10249/ Conference version in STACS 2019]
-- [https://arxiv.org/pdf/1809.08140.pdf arXiv version]
-- [pdf/stacs2019.pdf Slides at STACS 2019]
+- Etienne Bamas, Louis Esperet. *Distributed coloring of graphs with an optimal number of colors*.
+\n \[[https://arxiv.org/pdf/1809.08140.pdf arXiv version]\], in /STACS/ 2019.
