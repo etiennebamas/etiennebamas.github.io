@@ -395,3 +395,7 @@ table.imgtable, table.imgtable td {
 	padding-bottom: 8px;
 	margin: 0;
 }
+
+table.imgtable td {
+    vertical-align: top;
+}
