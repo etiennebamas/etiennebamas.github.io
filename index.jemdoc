@@ -15,41 +15,41 @@ Below you can find the list of my publications. I also advised several student p
 == Publications
 All my publications can also be found on [https://scholar.google.com/citations?user=Cu8EcIAAAAAJ my scholar profile].
 
-- Etienne Bamas, Shi Li, Lars Rohwedder. *Randomized Rounding over Dynamic Programs*. 
+- E. Bamas, S. Li, L. Rohwedder. *Randomized Rounding over Dynamic Programs*. 
 \n \[[https://arxiv.org/abs/2511.03490 arXiv]\], submitted.
 
-- Etienne Bamas. *Lift-and-Project Integrality Gaps for Santa Claus*. 
+- E. Bamas. *Lift-and-Project Integrality Gaps for Santa Claus*. 
 \n \[[https://arxiv.org/abs/2406.18273 arXiv]\], in /SODA/ 2025.
 
-- Etienne Bamas, Sarah Morell, Lars Rohwedder. *The Submodular Santa Claus Problem*.
+- E. Bamas, S. Morell, L. Rohwedder. *The Submodular Santa Claus Problem*.
 \n \[[https://arxiv.org/abs/2407.04824 arXiv]\], in /SODA/ 2025.
 
-- Etienne Bamas, Sai Ganesh Nagarajan, Ola Svensson. *An Analysis of $D^\alpha$ seeding for k-means*.
+- E. Bamas, SG Nagarajan, O. Svensson. *An Analysis of $D^\alpha$ seeding for k-means*.
 \n \[[https://arxiv.org/abs/2310.13474 arXiv], [https://proceedings.mlr.press/v235/bamas24a.html conference version]\], in /ICML/ 2024.
 
 - E. Bamas, A. Lindermayr, N. Megow, L. Rohwedder, J. Schloeter. *Santa Claus meets Makespan and Matroids: Algorithms and Reductions*.
 \n \[[https://arxiv.org/abs/2307.08453 arXiv]\], in /SODA/ 2024 (*invited to TALG special issue*).
 
-- Etienne Bamas, Lars Rohwedder. *Better Trees for Santa Claus*.
+- E. Bamas, L. Rohwedder. *Better Trees for Santa Claus*.
 \n \[[https://arxiv.org/abs/2211.14259 arXiv]\], in /STOC/ 2023.
 
-- Etienne Bamas, Marina Drygala, Ola Svensson. *A Simple LP-Based Approximation Algorithm for the Matching Augmentation Problem*.
+- E. Bamas, M. Drygala, O. Svensson. *A Simple LP-Based Approximation Algorithm for the Matching Augmentation Problem*.
 \n \[[https://arxiv.org/pdf/2202.07283.pdf arXiv]\], in /IPCO/ 2022.
 
-- Etienne Bamas, Marina Drygala, Andreas Maggiori. *An Improved Analysis of Greedy for Online Steiner Forest*.
+- E. Bamas, M. Drygala, A. Maggiori. *An Improved Analysis of Greedy for Online Steiner Forest*.
 \n \[[https://arxiv.org/pdf/2111.10086.pdf arXiv]\], in /SODA/ 2022.
 
-- Etienne Bamas, Paritosh Garg, Lars Rohwedder. *The Submodular Santa Claus Problem in the Restricted Assignment Case*.
+- E. Bamas, P. Garg, L. Rohwedder. *The Submodular Santa Claus Problem in the Restricted Assignment Case*.
 \n \[[https://arxiv.org/pdf/2011.06939.pdf arXiv]\], in /ICALP/ 2021.
 
-- Etienne Bamas, Andreas Maggiori, Ola Svensson. *The Primal-Dual method for Learning Augmented Algorithms*.
+- E. Bamas, A. Maggiori, O. Svensson. *The Primal-Dual method for Learning Augmented Algorithms*.
 \n \[[https://arxiv.org/pdf/2010.11632.pdf arXiv]\], in /NeurIPS/ 2020 (*oral presentation, top 1% of submissions*).
 
-- Etienne Bamas, Andreas Maggiori, Lars Rohwedder, Ola Svensson. *Learning Augmented Energy Minimization via Speed Scaling*.
+- E. Bamas, A. Maggiori, L. Rohwedder, O. Svensson. *Learning Augmented Energy Minimization via Speed Scaling*.
 \n \[[https://arxiv.org/pdf/2010.11629.pdf arXiv]\], in /NeurIPS/ 2020 (*spotlight presentation, top 3% of submissions*).
 
-- Etienne Bamas, Louis Esperet. *Local Approximation of the Maximum Cut in Regular Graphs*.
+- E. Bamas, L. Esperet. *Local Approximation of the Maximum Cut in Regular Graphs*.
 \n \[[https://arxiv.org/pdf/1902.04899.pdf arXiv]\], in /WG/ 2019, [https://www.sciencedirect.com/science/article/pii/S0304397520301596 journal version] in Theoretical Computer Science.
 
-- Etienne Bamas, Louis Esperet. *Distributed coloring of graphs with an optimal number of colors*.
+- E. Bamas, L. Esperet. *Distributed coloring of graphs with an optimal number of colors*.
 \n \[[https://arxiv.org/pdf/1809.08140.pdf arXiv version]\], in /STACS/ 2019.
