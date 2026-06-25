@@ -4,7 +4,9 @@
 ~~~
 {}{img_left}{Photo/profile.png}{}{200px}{200px}{}
 == Hello!
-Welcome to my webpage. I am a post-doctoral researcher at EPFL, affiliated to the group of [https://people.epfl.ch/emmanuel.abbe Prof. Emmanuel Abbé] in the Mathematics Institute, working on mathematics and reasoning in AI. Until now, I did most of my research in Theoretical Computer Science (specifically Combinatorial Optimization), but since 2025, I am also very interested in the topic of AI for mathematics. You can find more info about me [about_me.html here].
+Welcome to my webpage. I am a post-doctoral researcher at EPFL, affiliated to the group of [https://people.epfl.ch/emmanuel.abbe Prof. Emmanuel Abbé], and a contractor at [https://machinelearning.apple.com/ Apple MLR]. I am working on mathematics and reasoning in AI. 
+
+Previously, I did most of my research in Theoretical Computer Science (specifically Combinatorial Optimization), but since 2025, I am also very interested in the topic of AI and AI for mathematics. You can find more info about me [about_me.html here].
 
 == Contact
 - *Email*: firstname dot lastname at epfl dot ch
