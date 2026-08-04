@@ -18,13 +18,13 @@
   pictures.
 
 ~~~
-{}{img_left}{Photo/Cats.jpg}{The cats doing cat stuff}{200px}{270px}{}
+{}{img_left}{Photo/Cats.jpg}{The cats doing cat stuff}{350px}{470px}{}
 ~~~
 
 ~~~
-{}{img_left}{Photo/Kili.jpg}{Mount Kilimanjaro with my wife}{600px}{450px}{}
+{}{img_left}{Photo/Kili.jpg}{Mount Kilimanjaro with my wife}{900px}{675px}{}
 ~~~
 
 ~~~
-{}{img_left}{Photo/SkiTouring.jpeg}{Ski touring on Gran Paradiso}{600px}{270px}{}
+{}{img_left}{Photo/SkiTouring.jpeg}{Ski touring on Gran Paradiso}{900px}{405px}{}
 ~~~
