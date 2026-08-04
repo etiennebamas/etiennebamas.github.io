@@ -18,28 +18,7 @@
   pictures.
 
 ~~~
-  {}{raw}
-  <!-- Change 400px to the display width you want for every gallery photo. -->
-  <div class="photo-gallery" style="--photo-size: 300px;">
-    <figure>
-      <img src="Photo/Cats.jpg"
-           alt="The cats doing cat stuff"
-           loading="lazy" />
-      <figcaption>The cats doing cat stuff</figcaption>
-    </figure>
-
-    <figure>
-      <img src="Photo/Kili.jpg"
-           alt="Mount Kilimanjaro with my wife"
-           loading="lazy" />
-      <figcaption>Mount Kilimanjaro with my wife</figcaption>
-    </figure>
-
-    <figure>
-      <img src="Photo/SkiTouring.jpeg"
-           alt="Ski touring on Gran Paradiso"
-           loading="lazy" />
-      <figcaption>Ski touring on Gran Paradiso</figcaption>
-    </figure>
-  </div>
+{}{img_left}{Photo/Cats.jpg}{The cats doing cat stuff}{225px}{300px}{}
+{}{img_left}{Photo/Kili.jpg}{Mount Kilimanjaro with my wife}{300px}{225px}{}
+{}{img_left}{Photo/SkiTouring.jpeg}{Ski touring on Gran Paradiso}{300px}{142px}{}
   ~~~
