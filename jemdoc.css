@@ -364,6 +364,14 @@ img {
     border: none;
 }
 
+/* The --photo-size value is set on each .photo-gallery in the page markup. */
+.photo-gallery img {
+    display: block;
+    width: var(--photo-size, 400px);
+    max-width: 100%;
+    height: auto;
+}
+
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
