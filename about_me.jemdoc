@@ -14,4 +14,31 @@
 -  See my [CV/Simple_CV.pdf CV].
 
 == Outside of work
+-  In my personal life, I am married and have two cats. I also enjoy many outdoor activities. Here are a few
+  pictures.
 
+~~~
+  {}{raw}
+  <div class="photo-gallery">
+    <figure>
+      <img src="Photo/Cats.jpg"
+           alt="The cats doing cat stuff"
+           loading="lazy" />
+      <figcaption>The cats doing cat stuff</figcaption>
+    </figure>
+
+    <figure>
+      <img src="Photo/Kili.jpg"
+           alt="Mount Kilimanjaro with my wife"
+           loading="lazy" />
+      <figcaption>Mount Kilimanjaro with my wife</figcaption>
+    </figure>
+
+    <figure>
+      <img src="Photo/SkiTouring.jpeg"
+           alt="Ski touring on Gran Paradiso"
+           loading="lazy" />
+      <figcaption>Ski touring on Gran Paradiso</figcaption>
+    </figure>
+  </div>
+  ~~~
