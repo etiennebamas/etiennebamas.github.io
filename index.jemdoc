@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{Photo/profile.png}{}{200px}{200px}{}
 == Hello!
-Welcome to my webpage. I am a post-doctoral researcher at EPFL, affiliated to the group of [https://people.epfl.ch/emmanuel.abbe Prof. Emmanuel Abbé], and a contractor at [https://machinelearning.apple.com/ Apple MLR]. I am working on mathematics and reasoning in AI, currently on formal theorem proving. 
+Welcome to my webpage. I am a post-doctoral researcher at EPFL, affiliated to the group of [https://people.epfl.ch/emmanuel.abbe Prof. Emmanuel Abbé], and a contractor at [https://machinelearning.apple.com/ Apple MLR]. I am working AI reasoning, more precisely for formal theorem proving. 
 
 Previously, I did most of my research in Theoretical Computer Science (specifically Combinatorial Optimization), but since 2025, I am also very interested in the topic of AI and AI for mathematics. You can find more info about me [about_me.html here].
 
@@ -15,7 +15,16 @@ Previously, I did most of my research in Theoretical Computer Science (specifica
 Below you can find the list of my publications. I also advised several student projects/MSc theses either on algorithms and theory or on more applied projects (see [pdf/PMLR1.pdf poster] for a more applied example).
 
 == Publications
-All my publications can also be found on [https://scholar.google.com/citations?user=Cu8EcIAAAAAJ my scholar profile].
+Most of my publications can also be found on [https://scholar.google.com/citations?user=Cu8EcIAAAAAJ my scholar profile].
+
+- L. Milikic, E. Bamas, V. Kuncak, E. Abbe. *Learning Lean Feedback for Efficient Proof-Candidate Evaluation on GPUs*.
+\n \[[Articles/Hybrid.pdf PDF]\], under review.
+
+- L. Milikic, E. Bamas, V. Shashkov, R.-D. Buhai, R. Vintan, O. Svensson, E. Abbe, V. Kunčak. *Formal Theorem Proving with Lean World Models*.
+\n \[[Articles/WorldModels.pdf PDF]\], under review.
+
+- M. Santelmo, X. Wei, I. Fakih, F. Bauer, J. G. Giraldo, C. Li, E. Bamas, E. Abbe. *Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models*.
+\n \[[https://arxiv.org/abs/2607.08317 arXiv]\].
 
 - K. Brilliantov, E. Bamas, E. Abbe. *k-server-bench: Automating Potential Discovery for the k-Server Conjecture*.
 \n \[[https://arxiv.org/abs/2604.07240 arXiv]\], to appear at the 3rd AI for Math Workshop@/ICML/ 2026.
